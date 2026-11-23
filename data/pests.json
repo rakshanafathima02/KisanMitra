@@ -1,0 +1,408 @@
+[
+ {
+  "id": "rice_blast",
+  "name": "Rice blast",
+  "type": "disease",
+  "crops": [
+   "rice",
+   "ragi"
+  ],
+  "symptoms": "diamond or spindle shaped spots with grey centre and brown edge on leaves, neck of the panicle turns black and breaks, humid cloudy weather",
+  "cause": "Fungus that spreads in humid weather, especially with too much nitrogen",
+  "organic": "Spray Pseudomonas fluorescens as advised; remove badly affected plants; avoid late and heavy nitrogen",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Use resistant varieties and treated seed",
+   "Apply nitrogen in splits",
+   "Avoid very dense planting"
+  ]
+ },
+ {
+  "id": "bph",
+  "name": "Brown planthopper",
+  "type": "pest",
+  "crops": [
+   "rice"
+  ],
+  "symptoms": "circular yellow then brown dried patches in the field hopper burn, small brown insects at the base of plants near water",
+  "cause": "Sucking insect that multiplies with excess nitrogen and dense, continuously flooded fields",
+  "organic": "Drain the field for a few days and use alternate wetting and drying; protect natural enemies such as spiders; do not spray randomly",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Avoid excess nitrogen",
+   "Keep alleys between plant rows",
+   "Scout the base of the plants weekly"
+  ]
+ },
+ {
+  "id": "stem_borer",
+  "name": "Rice stem borer",
+  "type": "pest",
+  "crops": [
+   "rice",
+   "maize",
+   "sugarcane"
+  ],
+  "symptoms": "dead hearts central shoot dries and pulls out easily in young plants, white empty panicles at flowering, small holes in stem",
+  "cause": "Moth larvae that bore inside the stem",
+  "organic": "Install pheromone traps; release Trichogramma egg parasitoid cards as advised; remove and destroy stubble after harvest",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Transplant on time",
+   "Destroy stubble",
+   "Clip seedling tips before transplanting"
+  ]
+ },
+ {
+  "id": "blb",
+  "name": "Bacterial leaf blight",
+  "type": "disease",
+  "crops": [
+   "rice"
+  ],
+  "symptoms": "water soaked yellow stripes starting from leaf tips and edges that turn straw coloured and dry, after storms or flooding",
+  "cause": "Bacteria that enter through wounds and spread through water",
+  "organic": "Drain the field; avoid excess nitrogen; use clean irrigation water",
+  "chemical_note": "There is no strong cure; ask your agriculture officer about recommended products for your area",
+  "prevention": [
+   "Use resistant varieties",
+   "Balanced fertiliser",
+   "Avoid clipping leaf tips"
+  ]
+ },
+ {
+  "id": "zinc_def",
+  "name": "Zinc deficiency (Khaira)",
+  "type": "deficiency",
+  "crops": [
+   "rice",
+   "maize",
+   "wheat"
+  ],
+  "symptoms": "rusty brown spots on middle leaves, stunted patches, pale new leaves in rice nursery or young crop",
+  "cause": "Low zinc in the soil, common in alkaline or continuously flooded soils",
+  "organic": "Apply well-decomposed farmyard manure or compost",
+  "chemical_note": "Apply zinc sulphate only on the basis of a soil test or the local recommendation",
+  "prevention": [
+   "Test the soil",
+   "Apply organic manure regularly"
+  ]
+ },
+ {
+  "id": "yellow_rust",
+  "name": "Wheat yellow rust",
+  "type": "disease",
+  "crops": [
+   "wheat"
+  ],
+  "symptoms": "yellow stripes of powdery pustules along the leaves that rub off on fingers like turmeric, cool humid weather",
+  "cause": "Fungus that spreads by wind in cool, humid weather",
+  "organic": "Remove and destroy badly affected plants in small patches",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Grow resistant varieties",
+   "Sow on time",
+   "Inspect leaves weekly in cool, cloudy weather"
+  ]
+ },
+ {
+  "id": "fall_armyworm",
+  "name": "Fall armyworm",
+  "type": "pest",
+  "crops": [
+   "maize",
+   "ragi",
+   "rice"
+  ],
+  "symptoms": "ragged holes in leaves, sawdust like droppings in the whorl, young caterpillars feeding inside the whorl, damaged cobs",
+  "cause": "Caterpillars of a moth that hide in the whorl",
+  "organic": "Put sand or dry ash in the whorl; spray neem seed kernel extract 5% early; use pheromone traps to monitor; hand-pick egg masses and young larvae",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Sow on time in the area",
+   "Inspect plants every 2-3 days in the first 8 weeks",
+   "Grow border crops as advised by experts"
+  ]
+ },
+ {
+  "id": "pink_bollworm",
+  "name": "Pink bollworm",
+  "type": "pest",
+  "crops": [
+   "cotton"
+  ],
+  "symptoms": "rosette shaped flowers that do not open, damaged bolls, pink caterpillars inside seeds, stained lint",
+  "cause": "Moth larvae that feed inside flowers and bolls",
+  "organic": "Use pheromone traps for monitoring; collect and destroy damaged bolls; destroy crop residue after picking",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Avoid very late sowing",
+   "Destroy stalks after the last picking",
+   "Do not store cotton stalks near the field"
+  ]
+ },
+ {
+  "id": "whitefly",
+  "name": "Whitefly",
+  "type": "pest",
+  "crops": [
+   "cotton",
+   "tomato",
+   "chilli",
+   "brinjal"
+  ],
+  "symptoms": "tiny white insects flying up when leaves are shaken, sticky honeydew and black sooty mould, yellowing and curling leaves",
+  "cause": "Sucking insect that also spreads leaf curl viruses",
+  "organic": "Put up yellow sticky traps; spray neem oil 3-5 ml per litre of water with a little soap; remove weeds around the field",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Use healthy seedlings",
+   "Remove infected plants early",
+   "Avoid growing susceptible crops side by side"
+  ]
+ },
+ {
+  "id": "aphids",
+  "name": "Aphids",
+  "type": "pest",
+  "crops": [
+   "all"
+  ],
+  "symptoms": "clusters of small green, black or yellow insects on tender shoots and under leaves, curling leaves, sticky honeydew, ants on plants",
+  "cause": "Sucking insects that multiply quickly in dry or cloudy weather",
+  "organic": "Spray a strong jet of water, then neem oil 3-5 ml per litre with a little soap; protect ladybird beetles",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Scout tender shoots weekly",
+   "Remove weeds",
+   "Avoid excess nitrogen"
+  ]
+ },
+ {
+  "id": "early_blight",
+  "name": "Early blight of tomato",
+  "type": "disease",
+  "crops": [
+   "tomato",
+   "chilli"
+  ],
+  "symptoms": "brown spots with concentric rings like a target on older lower leaves, leaves yellow and fall, spots on stems and fruit",
+  "cause": "Fungus that survives in soil and crop residue",
+  "organic": "Remove affected lower leaves; mulch to stop soil splash; rotate crops; use Trichoderma or Pseudomonas in the soil as advised",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Rotate with non-solanaceous crops",
+   "Stake plants",
+   "Avoid overhead irrigation"
+  ]
+ },
+ {
+  "id": "late_blight",
+  "name": "Late blight of tomato",
+  "type": "disease",
+  "crops": [
+   "tomato"
+  ],
+  "symptoms": "large dark water soaked patches on leaves and stems, white fuzzy growth under leaves in cool wet weather, firm brown patches on fruit",
+  "cause": "Fast-spreading fungus-like organism in cool, wet, cloudy weather",
+  "organic": "Remove and destroy affected plants quickly to stop spread",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Use healthy seedlings",
+   "Avoid water standing on leaves",
+   "Scout daily in cool, wet weather"
+  ]
+ },
+ {
+  "id": "leaf_curl_virus",
+  "name": "Tomato and chilli leaf curl virus",
+  "type": "disease",
+  "crops": [
+   "tomato",
+   "chilli"
+  ],
+  "symptoms": "leaves curl upward and become small, thick and crinkled, yellowing, stunted plants, few flowers, many whiteflies",
+  "cause": "Virus spread by whiteflies",
+  "organic": "Uproot and destroy infected plants early; control whitefly with yellow sticky traps and neem oil",
+  "chemical_note": "There is no cure for the virus; control the whitefly and ask your agriculture officer about recommended products",
+  "prevention": [
+   "Use healthy or protected nursery seedlings",
+   "Control whitefly",
+   "Remove weeds"
+  ]
+ },
+ {
+  "id": "fruit_borer",
+  "name": "Fruit borer (Helicoverpa)",
+  "type": "pest",
+  "crops": [
+   "tomato",
+   "chilli",
+   "cotton",
+   "groundnut"
+  ],
+  "symptoms": "round holes in fruits, caterpillars inside fruits or bolls, droppings, fruits rot after damage",
+  "cause": "Caterpillars of a moth that feed on flowers and fruits",
+  "organic": "Install pheromone traps; plant marigold as a trap crop border; collect and destroy damaged fruits; use NPV if advised",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Monitor with pheromone traps",
+   "Remove damaged fruits",
+   "Deep ploughing after harvest"
+  ]
+ },
+ {
+  "id": "thrips_mites",
+  "name": "Thrips and mites (leaf curl complex)",
+  "type": "pest",
+  "crops": [
+   "chilli",
+   "cotton",
+   "tomato"
+  ],
+  "symptoms": "leaves curl upward or become narrow and crinkled, silvery patches, tiny insects or mites on the underside, flowers drop",
+  "cause": "Tiny sucking insects and mites that multiply in hot, dry weather",
+  "organic": "Spray neem oil 3-5 ml per litre with a little soap; put up blue or yellow sticky traps; maintain soil moisture",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Use healthy seedlings",
+   "Avoid water stress",
+   "Avoid broad-spectrum sprays that kill natural enemies"
+  ]
+ },
+ {
+  "id": "tikka",
+  "name": "Groundnut leaf spot (tikka)",
+  "type": "disease",
+  "crops": [
+   "groundnut"
+  ],
+  "symptoms": "brown to black circular spots with a yellow ring on leaves, leaves turn yellow and fall early, more in humid weather",
+  "cause": "Fungus that survives on crop residue",
+  "organic": "Use treated seed; remove crop residue; rotate crops; intercrop with a cereal as advised",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Crop rotation",
+   "Seed treatment",
+   "Avoid dense sowing"
+  ]
+ },
+ {
+  "id": "red_rot",
+  "name": "Sugarcane red rot",
+  "type": "disease",
+  "crops": [
+   "sugarcane"
+  ],
+  "symptoms": "top leaves dry from the midrib, inside of the cane turns red with white cross bands, sour smell, cane splits",
+  "cause": "Fungus carried by diseased setts and spread through water and soil",
+  "organic": "Remove and burn or bury infected clumps; do not use them as setts",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Use disease-free setts and resistant varieties",
+   "Treat setts before planting",
+   "Avoid ratooning diseased fields"
+  ]
+ },
+ {
+  "id": "shoot_borer",
+  "name": "Sugarcane early shoot borer",
+  "type": "pest",
+  "crops": [
+   "sugarcane"
+  ],
+  "symptoms": "dead hearts in young shoots that pull out easily with a bad smell, small holes at the base of shoots, thin canes",
+  "cause": "Moth larvae that bore into young shoots",
+  "organic": "Earth up at the right time; remove and destroy dead hearts; pheromone traps for monitoring",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Plant on time",
+   "Early earthing up",
+   "Remove trash"
+  ]
+ },
+ {
+  "id": "panama_wilt",
+  "name": "Banana Panama wilt",
+  "type": "disease",
+  "crops": [
+   "banana"
+  ],
+  "symptoms": "older leaves turn yellow from the edges and hang down like a skirt, splitting of the base of the pseudostem, brown streaks inside",
+  "cause": "Soil-borne fungus that enters through roots",
+  "organic": "Remove and destroy affected plants; apply Trichoderma in the soil as advised; improve drainage",
+  "chemical_note": "There is no cure once the plant is affected; ask your agriculture officer about replanting advice",
+  "prevention": [
+   "Use disease-free tissue culture plants",
+   "Avoid waterlogging",
+   "Do not move soil from infected fields"
+  ]
+ },
+ {
+  "id": "bunchy_top",
+  "name": "Banana bunchy top virus",
+  "type": "disease",
+  "crops": [
+   "banana"
+  ],
+  "symptoms": "dwarf plants, short narrow leaves bunched at the top, dark green streaks on leaf veins and stalks, no proper bunch",
+  "cause": "Virus spread by banana aphids and infected suckers",
+  "organic": "Uproot and destroy infected plants immediately; control aphids with neem oil",
+  "chemical_note": "There is no cure; remove infected plants and control the aphids",
+  "prevention": [
+   "Use virus-free planting material",
+   "Never take suckers from infected plants"
+  ]
+ },
+ {
+  "id": "n_def",
+  "name": "Nitrogen deficiency",
+  "type": "deficiency",
+  "crops": [
+   "all"
+  ],
+  "symptoms": "older leaves turn uniformly pale yellow starting from the tip, slow growth, thin stems, yellowing begins at the bottom of the plant",
+  "cause": "Not enough nitrogen in the soil, or leaching after heavy rain",
+  "organic": "Apply well-decomposed farmyard manure, compost or vermicompost; grow legumes in rotation",
+  "chemical_note": "Apply fertiliser based on a soil test or the local recommendation, in split doses",
+  "prevention": [
+   "Soil testing",
+   "Organic manure",
+   "Split fertiliser doses"
+  ]
+ },
+ {
+  "id": "powdery_mildew",
+  "name": "Powdery mildew",
+  "type": "disease",
+  "crops": [
+   "all"
+  ],
+  "symptoms": "white powder like patches on upper leaf surfaces, leaves curl and dry, more in dry days with cool nights",
+  "cause": "Fungus that likes dry weather with humid nights",
+  "organic": "Spray diluted buttermilk or neem oil 3-5 ml per litre; remove badly affected leaves",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Do not overcrowd plants",
+   "Water at the base of plants",
+   "Remove infected residue"
+  ]
+ },
+ {
+  "id": "ragi_blast",
+  "name": "Finger millet (ragi) blast",
+  "type": "disease",
+  "crops": [
+   "ragi"
+  ],
+  "symptoms": "spindle shaped spots on leaves, neck turns black and breaks, fingers of the earhead dry and shrivel in humid weather",
+  "cause": "Fungus that spreads in humid weather",
+  "organic": "Use treated seed; remove badly affected plants; avoid excess nitrogen",
+  "chemical_note": "If the attack is serious, ask your agriculture officer or KVK which approved product to use, and follow the label dose and safety period exactly.",
+  "prevention": [
+   "Use resistant varieties",
+   "Treat seed",
+   "Avoid dense sowing"
+  ]
+ }
+]

@@ -1,0 +1,8 @@
+streamlit>=1.55
+google-genai>=1.0
+pandas>=2.0
+plotly>=5.20
+scikit-learn>=1.4
+requests>=2.31
+gTTS>=2.5
+python-dotenv>=1.0

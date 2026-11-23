@@ -1,0 +1,200 @@
+[
+ {
+  "name": "Chennai",
+  "state": "Tamil Nadu",
+  "lat": 13.08,
+  "lon": 80.27
+ },
+ {
+  "name": "Coimbatore",
+  "state": "Tamil Nadu",
+  "lat": 11.02,
+  "lon": 76.96
+ },
+ {
+  "name": "Madurai",
+  "state": "Tamil Nadu",
+  "lat": 9.92,
+  "lon": 78.12
+ },
+ {
+  "name": "Tiruchirappalli",
+  "state": "Tamil Nadu",
+  "lat": 10.79,
+  "lon": 78.7
+ },
+ {
+  "name": "Thanjavur",
+  "state": "Tamil Nadu",
+  "lat": 10.79,
+  "lon": 79.14
+ },
+ {
+  "name": "Salem",
+  "state": "Tamil Nadu",
+  "lat": 11.65,
+  "lon": 78.16
+ },
+ {
+  "name": "Erode",
+  "state": "Tamil Nadu",
+  "lat": 11.34,
+  "lon": 77.72
+ },
+ {
+  "name": "Vellore",
+  "state": "Tamil Nadu",
+  "lat": 12.92,
+  "lon": 79.13
+ },
+ {
+  "name": "Tirunelveli",
+  "state": "Tamil Nadu",
+  "lat": 8.73,
+  "lon": 77.7
+ },
+ {
+  "name": "Thoothukudi",
+  "state": "Tamil Nadu",
+  "lat": 8.76,
+  "lon": 78.13
+ },
+ {
+  "name": "Nagercoil",
+  "state": "Tamil Nadu",
+  "lat": 8.18,
+  "lon": 77.43
+ },
+ {
+  "name": "Dindigul",
+  "state": "Tamil Nadu",
+  "lat": 10.37,
+  "lon": 77.98
+ },
+ {
+  "name": "Cuddalore",
+  "state": "Tamil Nadu",
+  "lat": 11.75,
+  "lon": 79.77
+ },
+ {
+  "name": "Karur",
+  "state": "Tamil Nadu",
+  "lat": 10.96,
+  "lon": 78.08
+ },
+ {
+  "name": "Namakkal",
+  "state": "Tamil Nadu",
+  "lat": 11.22,
+  "lon": 78.17
+ },
+ {
+  "name": "Tiruppur",
+  "state": "Tamil Nadu",
+  "lat": 11.11,
+  "lon": 77.34
+ },
+ {
+  "name": "Puducherry",
+  "state": "Puducherry",
+  "lat": 11.93,
+  "lon": 79.83
+ },
+ {
+  "name": "Bengaluru",
+  "state": "Karnataka",
+  "lat": 12.97,
+  "lon": 77.59
+ },
+ {
+  "name": "Hyderabad",
+  "state": "Telangana",
+  "lat": 17.39,
+  "lon": 78.49
+ },
+ {
+  "name": "Guntur",
+  "state": "Andhra Pradesh",
+  "lat": 16.31,
+  "lon": 80.44
+ },
+ {
+  "name": "Kochi",
+  "state": "Kerala",
+  "lat": 9.93,
+  "lon": 76.27
+ },
+ {
+  "name": "Mumbai",
+  "state": "Maharashtra",
+  "lat": 19.08,
+  "lon": 72.88
+ },
+ {
+  "name": "Pune",
+  "state": "Maharashtra",
+  "lat": 18.52,
+  "lon": 73.86
+ },
+ {
+  "name": "Nagpur",
+  "state": "Maharashtra",
+  "lat": 21.15,
+  "lon": 79.09
+ },
+ {
+  "name": "Ahmedabad",
+  "state": "Gujarat",
+  "lat": 23.02,
+  "lon": 72.57
+ },
+ {
+  "name": "Delhi",
+  "state": "Delhi",
+  "lat": 28.61,
+  "lon": 77.21
+ },
+ {
+  "name": "Lucknow",
+  "state": "Uttar Pradesh",
+  "lat": 26.85,
+  "lon": 80.95
+ },
+ {
+  "name": "Jaipur",
+  "state": "Rajasthan",
+  "lat": 26.91,
+  "lon": 75.79
+ },
+ {
+  "name": "Ludhiana",
+  "state": "Punjab",
+  "lat": 30.9,
+  "lon": 75.86
+ },
+ {
+  "name": "Bhopal",
+  "state": "Madhya Pradesh",
+  "lat": 23.26,
+  "lon": 77.41
+ },
+ {
+  "name": "Patna",
+  "state": "Bihar",
+  "lat": 25.59,
+  "lon": 85.14
+ },
+ {
+  "name": "Kolkata",
+  "state": "West Bengal",
+  "lat": 22.57,
+  "lon": 88.36
+ },
+ {
+  "name": "Bhubaneswar",
+  "state": "Odisha",
+  "lat": 20.3,
+  "lon": 85.82
+ }
+]

@@ -1,0 +1,657 @@
+[
+ {
+  "id": "rice",
+  "names": {
+   "en": "Rice (Paddy)",
+   "ta": "நெல்",
+   "hi": "धान (चावल)"
+  },
+  "season": "Kharif / Samba / Navarai",
+  "sowing_months": [
+   6,
+   7,
+   8,
+   9,
+   12,
+   1
+  ],
+  "duration_days": 120,
+  "water": "High",
+  "soil": "Clay or clay loam that holds water",
+  "tips": [
+   "Use certified, treated seed of a variety suited to your season and region.",
+   "Alternate wetting and drying saves water without lowering yield.",
+   "Apply nitrogen in 2-3 split doses instead of one heavy dose."
+  ],
+  "stages": [
+   {
+    "name": "Nursery and transplanting",
+    "start": 0,
+    "end": 25,
+    "tasks": [
+     "Prepare a raised, well-drained nursery bed and use treated, healthy seed.",
+     "Level the main field and mix in well-decomposed farmyard manure before puddling.",
+     "Transplant 20-25 day old seedlings in lines, 2-3 seedlings per hill."
+    ]
+   },
+   {
+    "name": "Tillering",
+    "start": 25,
+    "end": 55,
+    "tasks": [
+     "Keep 2-3 cm of water in the field; avoid long periods of deep flooding.",
+     "Weed by hand or with a weeder around 20-25 days after transplanting.",
+     "Apply nitrogen in split doses as per soil test or local recommendation and scout for stem borer."
+    ]
+   },
+   {
+    "name": "Panicle initiation and flowering",
+    "start": 55,
+    "end": 90,
+    "tasks": [
+     "Do not let the field dry out at flowering; keep shallow water.",
+     "Scout for blast, brown planthopper and bacterial leaf blight; avoid excess nitrogen.",
+     "Install pheromone traps if stem borer moths are seen."
+    ]
+   },
+   {
+    "name": "Grain filling and maturity",
+    "start": 90,
+    "end": 120,
+    "tasks": [
+     "Reduce water gradually and drain the field about 10 days before harvest.",
+     "Harvest when about 80-85% of the grains turn golden yellow.",
+     "Dry grain to about 12-14% moisture before storage."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "wheat",
+  "names": {
+   "en": "Wheat",
+   "ta": "கோதுமை",
+   "hi": "गेहूं"
+  },
+  "season": "Rabi",
+  "sowing_months": [
+   10,
+   11,
+   12
+  ],
+  "duration_days": 120,
+  "water": "Medium",
+  "soil": "Well-drained loam or clay loam",
+  "tips": [
+   "Sow on time; late sowing reduces yield.",
+   "Irrigation at crown root initiation, tillering, flowering and grain filling is most important.",
+   "Use treated seed and a variety recommended for your area."
+  ],
+  "stages": [
+   {
+    "name": "Germination and crown root stage",
+    "start": 0,
+    "end": 30,
+    "tasks": [
+     "Sow treated seed in a well-prepared bed.",
+     "Give the first irrigation at crown root initiation, about 20-25 days after sowing.",
+     "Control early weeds as per recommendation."
+    ]
+   },
+   {
+    "name": "Tillering",
+    "start": 30,
+    "end": 60,
+    "tasks": [
+     "Top-dress nitrogen as per soil test after the first irrigation.",
+     "Irrigate again at about 40-45 days when tillering peaks.",
+     "Scout for yellow rust and aphids."
+    ]
+   },
+   {
+    "name": "Jointing and flowering",
+    "start": 60,
+    "end": 95,
+    "tasks": [
+     "Irrigate at jointing and flowering; these are critical stages.",
+     "Look for yellow stripes on leaves (yellow rust) and report early to your agriculture officer.",
+     "Avoid spraying in strong wind."
+    ]
+   },
+   {
+    "name": "Grain filling and maturity",
+    "start": 95,
+    "end": 120,
+    "tasks": [
+     "Irrigate lightly at grain filling if the soil is dry.",
+     "Stop irrigation as the crop turns yellow.",
+     "Harvest when grains are hard and straw is golden; dry well before storage."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "maize",
+  "names": {
+   "en": "Maize",
+   "ta": "மக்காச்சோளம்",
+   "hi": "मक्का"
+  },
+  "season": "Kharif / Rabi",
+  "sowing_months": [
+   6,
+   7,
+   10,
+   11
+  ],
+  "duration_days": 100,
+  "water": "Medium",
+  "soil": "Well-drained loam; maize does not tolerate waterlogging",
+  "tips": [
+   "Good drainage is essential; waterlogging for even a day or two can damage the crop.",
+   "Scout the whorl for fall armyworm every 2-3 days in the first 8 weeks.",
+   "Water stress at tasseling and silking reduces yield the most."
+  ],
+  "stages": [
+   {
+    "name": "Emergence",
+    "start": 0,
+    "end": 20,
+    "tasks": [
+     "Sow treated seed in rows and keep a healthy plant stand.",
+     "Ensure good drainage.",
+     "Do the first weeding at 15-20 days."
+    ]
+   },
+   {
+    "name": "Vegetative growth",
+    "start": 20,
+    "end": 50,
+    "tasks": [
+     "Earth up and top-dress nitrogen as per recommendation at about 25-30 days.",
+     "Scout the whorl for fall armyworm (ragged leaves, sawdust-like droppings).",
+     "Irrigate if there is no rain for a week."
+    ]
+   },
+   {
+    "name": "Tasseling and silking",
+    "start": 50,
+    "end": 75,
+    "tasks": [
+     "Do not allow water stress; this is the most critical stage.",
+     "Keep the field weed-free.",
+     "Continue scouting for armyworm and stem borer."
+    ]
+   },
+   {
+    "name": "Grain filling and maturity",
+    "start": 75,
+    "end": 100,
+    "tasks": [
+     "Maintain light irrigation until the dough stage.",
+     "Harvest when husks dry and kernels are hard.",
+     "Dry cobs well before storage."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cotton",
+  "names": {
+   "en": "Cotton",
+   "ta": "பருத்தி",
+   "hi": "कपास"
+  },
+  "season": "Kharif",
+  "sowing_months": [
+   5,
+   6,
+   7
+  ],
+  "duration_days": 160,
+  "water": "Medium",
+  "soil": "Deep black or well-drained loamy soil",
+  "tips": [
+   "Time sowing so that boll formation does not coincide with heavy rain.",
+   "Use pheromone traps to monitor pink bollworm.",
+   "Destroy crop residue after the last picking."
+  ],
+  "stages": [
+   {
+    "name": "Establishment",
+    "start": 0,
+    "end": 30,
+    "tasks": [
+     "Maintain a uniform plant stand; gap-fill within a week of sowing.",
+     "Do the first weeding at 20-25 days.",
+     "Thin to one healthy plant per hill."
+    ]
+   },
+   {
+    "name": "Square formation",
+    "start": 30,
+    "end": 60,
+    "tasks": [
+     "Scout for sucking pests: aphids, whitefly and jassids.",
+     "Top-dress fertiliser as per soil test.",
+     "Put up yellow sticky traps."
+    ]
+   },
+   {
+    "name": "Flowering and boll formation",
+    "start": 60,
+    "end": 110,
+    "tasks": [
+     "Irrigate at flowering and boll formation; avoid water stress.",
+     "Install pheromone traps for pink bollworm and monitor weekly.",
+     "Do not spray in the heat of the day or when rain is expected."
+    ]
+   },
+   {
+    "name": "Boll opening and picking",
+    "start": 110,
+    "end": 160,
+    "tasks": [
+     "Pick fully opened bolls in dry weather and keep the cotton clean and dry.",
+     "Pick in 2-3 rounds.",
+     "Destroy crop residue after final picking to break the pink bollworm cycle."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "groundnut",
+  "names": {
+   "en": "Groundnut (Peanut)",
+   "ta": "நிலக்கடலை",
+   "hi": "मूंगफली"
+  },
+  "season": "Kharif / Rabi / Summer",
+  "sowing_months": [
+   6,
+   7,
+   11,
+   12,
+   1
+  ],
+  "duration_days": 105,
+  "water": "Low to medium",
+  "soil": "Light, loose, well-drained sandy loam or red soil",
+  "tips": [
+   "Loose soil helps pegs enter the ground and pods develop.",
+   "Gypsum at flowering helps pod filling in many soils; follow local advice.",
+   "Dry pods well to avoid aflatoxin contamination."
+  ],
+  "stages": [
+   {
+    "name": "Emergence",
+    "start": 0,
+    "end": 20,
+    "tasks": [
+     "Treat seed before sowing and sow in loose, well-drained soil.",
+     "Gap-fill within 10 days.",
+     "Do the first weeding at 15-20 days."
+    ]
+   },
+   {
+    "name": "Flowering",
+    "start": 20,
+    "end": 45,
+    "tasks": [
+     "Irrigate at flowering if the soil is dry.",
+     "Apply gypsum at flowering as per local recommendation.",
+     "Scout for leaf spot and leaf-eating caterpillars."
+    ]
+   },
+   {
+    "name": "Pegging and pod development",
+    "start": 45,
+    "end": 80,
+    "tasks": [
+     "Do not disturb the soil once pegs enter it.",
+     "Keep soil moisture even and avoid waterlogging.",
+     "Scout for leaf spot and rust."
+    ]
+   },
+   {
+    "name": "Maturity",
+    "start": 80,
+    "end": 105,
+    "tasks": [
+     "Stop irrigation 10-15 days before harvest.",
+     "Check maturity: the inside of the shell darkens and kernels are well filled.",
+     "Dry pods thoroughly before storage."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tomato",
+  "names": {
+   "en": "Tomato",
+   "ta": "தக்காளி",
+   "hi": "टमाटर"
+  },
+  "season": "Year-round with protection; best in cool season",
+  "sowing_months": [
+   6,
+   7,
+   10,
+   11,
+   1
+  ],
+  "duration_days": 120,
+  "water": "Medium",
+  "soil": "Well-drained, fertile loam",
+  "tips": [
+   "Use staking to keep fruit off the soil.",
+   "Even moisture prevents fruit cracking and blossom end rot.",
+   "Rotate with non-solanaceous crops to reduce soil-borne disease."
+  ],
+  "stages": [
+   {
+    "name": "Nursery",
+    "start": 0,
+    "end": 25,
+    "tasks": [
+     "Raise seedlings in a raised bed or protray with treated seed.",
+     "Protect seedlings from heavy rain and sucking pests.",
+     "Harden seedlings by reducing water a few days before transplanting."
+    ]
+   },
+   {
+    "name": "Establishment after transplanting",
+    "start": 25,
+    "end": 45,
+    "tasks": [
+     "Transplant in the evening and irrigate lightly.",
+     "Gap-fill within a week.",
+     "Put up stakes and yellow sticky traps."
+    ]
+   },
+   {
+    "name": "Flowering and fruit set",
+    "start": 45,
+    "end": 75,
+    "tasks": [
+     "Stake and tie plants; remove lower leaves touching the soil.",
+     "Irrigate regularly; avoid big swings in moisture.",
+     "Scout for early blight, leaf curl virus and fruit borer."
+    ]
+   },
+   {
+    "name": "Harvest",
+    "start": 75,
+    "end": 120,
+    "tasks": [
+     "Harvest at the colour-break stage if transporting far; use clean crates.",
+     "Remove and destroy diseased plants.",
+     "Continue scouting for fruit borer."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "chilli",
+  "names": {
+   "en": "Chilli",
+   "ta": "மிளகாய்",
+   "hi": "मिर्च"
+  },
+  "season": "Kharif / Rabi",
+  "sowing_months": [
+   6,
+   7,
+   8,
+   10,
+   11
+  ],
+  "duration_days": 150,
+  "water": "Medium",
+  "soil": "Well-drained loam or black soil; avoid waterlogging",
+  "tips": [
+   "Chilli is sensitive to waterlogging; keep good drainage.",
+   "Leaf curl is often caused by thrips and mites; scout early.",
+   "Dry red chilli on clean sheets or yards, not on bare soil."
+  ],
+  "stages": [
+   {
+    "name": "Nursery",
+    "start": 0,
+    "end": 30,
+    "tasks": [
+     "Treat seed and raise seedlings in a raised bed.",
+     "Protect the nursery from heavy rain and sucking pests.",
+     "Transplant healthy seedlings at 30-35 days."
+    ]
+   },
+   {
+    "name": "Vegetative growth",
+    "start": 30,
+    "end": 60,
+    "tasks": [
+     "Transplant in the evening and irrigate lightly.",
+     "Weed at 20-25 days after transplanting.",
+     "Scout for thrips and mites (upward curling leaves)."
+    ]
+   },
+   {
+    "name": "Flowering and fruiting",
+    "start": 60,
+    "end": 100,
+    "tasks": [
+     "Irrigate regularly; avoid water stress at flowering.",
+     "Scout for leaf curl, fruit rot and fruit borer.",
+     "Do not spray when rain is expected."
+    ]
+   },
+   {
+    "name": "Harvest",
+    "start": 100,
+    "end": 150,
+    "tasks": [
+     "Pick fully ripe fruits in several rounds.",
+     "Dry red chilli on clean sheets or yards.",
+     "Remove and destroy diseased plants."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sugarcane",
+  "names": {
+   "en": "Sugarcane",
+   "ta": "கரும்பு",
+   "hi": "गन्ना"
+  },
+  "season": "Annual (spring or autumn planting)",
+  "sowing_months": [
+   1,
+   2,
+   3,
+   10,
+   11
+  ],
+  "duration_days": 360,
+  "water": "High",
+  "soil": "Deep, well-drained loam or clay loam",
+  "tips": [
+   "Use healthy, disease-free setts and treat them before planting.",
+   "Remove and destroy plants showing red rot signs.",
+   "Trash mulching saves water and improves soil."
+  ],
+  "stages": [
+   {
+    "name": "Germination",
+    "start": 0,
+    "end": 45,
+    "tasks": [
+     "Use healthy, disease-free setts and treat them before planting.",
+     "Keep the soil moist for good germination.",
+     "Gap-fill with sprouted setts within 30-45 days."
+    ]
+   },
+   {
+    "name": "Tillering",
+    "start": 45,
+    "end": 120,
+    "tasks": [
+     "Weed and earth up; apply nitrogen in splits as per recommendation.",
+     "Irrigate regularly.",
+     "Scout for early shoot borer (dead hearts)."
+    ]
+   },
+   {
+    "name": "Grand growth",
+    "start": 120,
+    "end": 270,
+    "tasks": [
+     "Irrigate every 7-10 days in summer depending on soil.",
+     "Prop or tie canes to prevent lodging.",
+     "Remove plants showing red rot symptoms and keep the field clean."
+    ]
+   },
+   {
+    "name": "Maturity and ripening",
+    "start": 270,
+    "end": 360,
+    "tasks": [
+     "Stop irrigation about 3-4 weeks before harvest to help sugar build-up.",
+     "Harvest at the maturity advised by the mill.",
+     "Cut close to the ground and deliver promptly."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "banana",
+  "names": {
+   "en": "Banana",
+   "ta": "வாழை",
+   "hi": "केला"
+  },
+  "season": "Year-round with irrigation",
+  "sowing_months": [
+   6,
+   7,
+   8,
+   10,
+   11,
+   12
+  ],
+  "duration_days": 360,
+  "water": "High",
+  "soil": "Deep, fertile, well-drained loam",
+  "tips": [
+   "Use disease-free tissue culture plants.",
+   "Keep drainage good; waterlogging encourages wilt.",
+   "Prop plants against wind when bunches develop."
+  ],
+  "stages": [
+   {
+    "name": "Establishment",
+    "start": 0,
+    "end": 60,
+    "tasks": [
+     "Plant disease-free tissue culture plants in well-drained pits.",
+     "Irrigate regularly; avoid waterlogging.",
+     "Mulch to retain moisture."
+    ]
+   },
+   {
+    "name": "Vegetative growth",
+    "start": 60,
+    "end": 180,
+    "tasks": [
+     "Apply manure and fertiliser in splits as per recommendation.",
+     "Remove excess suckers and keep one healthy follower.",
+     "Remove and destroy plants with bunchy top symptoms."
+    ]
+   },
+   {
+    "name": "Flowering and bunch development",
+    "start": 180,
+    "end": 300,
+    "tasks": [
+     "Prop plants with bamboo poles against wind.",
+     "Cover bunches if practised and remove the male bud after the last hand.",
+     "Irrigate regularly."
+    ]
+   },
+   {
+    "name": "Harvest",
+    "start": 300,
+    "end": 360,
+    "tasks": [
+     "Harvest when fingers are plump and the angular edges round off.",
+     "Handle bunches gently to avoid bruising.",
+     "Cut down the harvested plant and keep one healthy follower."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ragi",
+  "names": {
+   "en": "Ragi (Finger millet)",
+   "ta": "கேழ்வரகு",
+   "hi": "रागी (मडुआ)"
+  },
+  "season": "Kharif / Rabi",
+  "sowing_months": [
+   6,
+   7,
+   8
+  ],
+  "duration_days": 110,
+  "water": "Low",
+  "soil": "Well-drained red or loamy soil",
+  "tips": [
+   "Ragi is hardy and suits low-rainfall areas.",
+   "Blast disease is the main risk in humid weather.",
+   "Dry earheads fully before threshing and storage."
+  ],
+  "stages": [
+   {
+    "name": "Establishment",
+    "start": 0,
+    "end": 25,
+    "tasks": [
+     "Sow seed or transplant 20-25 day old seedlings into a well-prepared bed.",
+     "Thin and gap-fill within 10-15 days.",
+     "Do the first weeding around 20 days."
+    ]
+   },
+   {
+    "name": "Tillering",
+    "start": 25,
+    "end": 50,
+    "tasks": [
+     "Top-dress nitrogen as per recommendation.",
+     "Do the second weeding at 35-40 days.",
+     "Scout for blast on leaves."
+    ]
+   },
+   {
+    "name": "Flowering",
+    "start": 50,
+    "end": 80,
+    "tasks": [
+     "Irrigate if dry at flowering.",
+     "Scout for finger and neck blast.",
+     "Keep the field weed-free."
+    ]
+   },
+   {
+    "name": "Grain filling and maturity",
+    "start": 80,
+    "end": 110,
+    "tasks": [
+     "Harvest when earheads turn brown and grains are hard.",
+     "Dry earheads in the sun before threshing.",
+     "Store grain only when fully dry."
+    ]
+   }
+  ]
+ }
+]
